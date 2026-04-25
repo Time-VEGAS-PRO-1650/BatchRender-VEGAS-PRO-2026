@@ -8,10 +8,10 @@ Follow these steps to correctly install the script and extension for VEGAS Pro:
 Copy the file "Batch Render 2.0.cs" to ONE of the following locations:
 
 Option A (Specific to Vegas Pro 2026):
-C:\\Program Files\\BorisFX\\Vegas Pro 2026\\Script Menu
+C:\Program Files\BorisFX\Vegas Pro 2026\Script Menu
 
 Option B (Global Script Folder):
-C:\\ProgramData\\VEGAS Pro\\Script Menu
+C:\ProgramData\VEGAS Pro\Script Menu
 
 
 2. INSTALLING THE EXTENSION (.dll)
@@ -19,7 +19,7 @@ C:\\ProgramData\\VEGAS Pro\\Script Menu
 Copy the file "BatchRenderExtension.dll" to the following location:
 
 Path:
-C:\\ProgramData\\VEGAS Pro\\Application Extensions
+C:\ProgramData\VEGAS Pro\Application Extensions
 
 
 3. HOW TO USE
