@@ -1,3 +1,6 @@
+<img width="586" height="524" alt="image" src="https://github.com/user-attachments/assets/ae9b752a-e22c-41ac-8071-f760e8af3b4b" />
+
+========================================
 BATCH RENDER 2.0 - INSTALLATION GUIDE
 ========================================
 
