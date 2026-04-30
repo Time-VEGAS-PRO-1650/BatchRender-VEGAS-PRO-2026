@@ -13,14 +13,19 @@ C:\Program Files\BorisFX\Vegas Pro 2026\Script Menu
 Option B (Global Script Folder):
 C:\ProgramData\VEGAS Pro\Script Menu
 
+Option С
+[My Documents]\Vegas Script Menu
 
 2. INSTALLING THE EXTENSION (.dll)
 ----------------------------------
 Copy the file "BatchRenderExtension.dll" to the following location:
 
+Option A 
 Path:
 C:\ProgramData\VEGAS Pro\Application Extensions
 
+Option B
+[My Documents]\Vegas Application Extensions
 
 3. HOW TO USE
 -------------
